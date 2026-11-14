@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Savan Kumar Maurya
 
-## 🚀 Sr. Quality Engineer | Manual Testing | Test Automation | DB Development
+## 🚀 SDET | Manual Testing | Test Automation | Boomi Development
 
-Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **SDET at ETS **, focusing on **Overall testing of a Project and automation excellence**.
+Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **SDET at ETS**, focusing on **Overall testing of a Project and automation excellence**.
 
 ---
 
