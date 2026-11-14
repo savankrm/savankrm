@@ -2,14 +2,14 @@
 
 ## 🚀 Sr. Quality Engineer | Manual Testing | Test Automation | DB Development
 
-Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **Sr. Test Engineer at Wipro India**, focusing on **Overall testing of a Project and automation excellence**.Along with that sharing my role as a Junior Application DBA too.
+Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **SDET at ETS **, focusing on **Overall testing of a Project and automation excellence**.
 
 ---
 
 ## 🔧 Technical Expertise
 
 ### ✅ Test Automation
-- Selenium, Robot Framework, Pytest
+- Python, Selenium, Pytest | API & Backend Testing | Playwright + TypeScript 
 
 ### ⚡ Performance Testing
 - Locust, K6
@@ -23,10 +23,10 @@ Quality Engineering professional with a strong background in building and scalin
 -  Postman, SOAP UI
 
 ### 🖥️ Programming
-- Python, Java
+- Python, Java, JS
 
 ### 🛢️ Database
-- PostgreSQL, Oracle
+- PostgreSQL, Oracle, MongoDB
 
 ---
 
